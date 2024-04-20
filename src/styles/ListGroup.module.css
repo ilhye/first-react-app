@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+    background-color: pink;
+    color:purple;
+    padding: 7px;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.list-group {
+    padding: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.list-group-item {
+    margin-left: 35px;
+    font-size: 16px;
+}
