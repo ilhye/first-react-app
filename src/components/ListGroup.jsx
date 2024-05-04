@@ -20,6 +20,7 @@ export default function ListGroup() {
    * items.sort((a, b) => b.zipCode - a.zipCode) - REVERSE NUMERIC
    */
 
+  const countryZop = items.filter(items => items.zipCode < 100);
   /**
    * Key - unique identifier
    * essential siya kapag magc-change, add, or delete
